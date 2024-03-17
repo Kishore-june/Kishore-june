@@ -1,5 +1,7 @@
-# Welcome to (Kishore) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-<a href="https://www.linkedin.com/in/kishore-lkin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
+# Welcome to Kishore's profile!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a target='blank' href="mailto:contact.kishores@gmail.com"><img align='center' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+&nbsp;
+<a target='blank' href="www.linkedin.com/in/kishore-lkin"><img align='center' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 &nbsp;
 
 - 👀 I’m interested in ...
