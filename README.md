@@ -21,8 +21,8 @@ Life is like a code, solving a little mistake can make a big difference.
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on <img alt="codingninjas" align="center" src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg" height="24px" width="24px" >
   - Recently start learning <a href="#"><img alt="React" align="center" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" height="24px" width="auto" ></a>
-- 📬 How to reach me: [contact.kishores@gmail.com](mailto:contact.kishores@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1qT-d74BQWbg2zfDLlOdyv9zgtw67u7Vh/view?usp=sharing).
+- 📬 How to reach me: [kishore.sakthi@outlook.com](mailto:kishore.sakthi@outlook.com)
+- 📝 [Resume](https://drive.google.com/file/d/1SiIwbDcygFkTumXm-SbaeNRiRkNDZ_nA/view?usp=drive_link).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
