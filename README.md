@@ -67,7 +67,7 @@ Life is like a code, solving a little mistake can make a big difference.
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 </p>
 
-### 💻 Software and tools
+### 💻 Software and tools. 
 
 <p>
     <a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"></a>
@@ -81,4 +81,6 @@ Life is like a code, solving a little mistake can make a big difference.
 </p>
 
 ---
+
+
 
