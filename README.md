@@ -23,7 +23,7 @@ Life is like a code, solving a little mistake can make a big difference.
   - Recently start learning <a href="#"><img alt="React" align="center" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" height="24px" width="auto" ></a>
 - 📬 How to reach me: [kishore.sakthi@outlook.com](mailto:kishore.sakthi@outlook.com)
 - 📝 [Resume](https://drive.google.com/file/d/1SiIwbDcygFkTumXm-SbaeNRiRkNDZ_nA/view?usp=drive_link).
-- 💪 This is where I write, code and solve problems:
+- 💪 This is where I write, code & solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#"><img align="center" src="https://files.codingninjas.in/article_images/logo-using-turtle-0-1651231975.webp" height="30" width="auto"></a>
