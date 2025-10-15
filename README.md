@@ -42,9 +42,8 @@ Life is like a code, solving a little mistake can make a big difference.
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -58,9 +57,9 @@ Life is like a code, solving a little mistake can make a big difference.
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
+    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools. 
