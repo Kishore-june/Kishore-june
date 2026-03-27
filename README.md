@@ -1,25 +1,26 @@
 <div align="center">
 
-<!-- HEADER IMAGE: GENERATED PREMIUM UI/UX ARCHITECT THEME -->
-<img src="https://github.com/Kishore-june/React-Notepad/raw/main/github_profile_header_futuristic_ux_architect_1774595053400.png" width="100%" alt="Developer Header" style="border-radius: 12px; margin-bottom: 20px;" />
+<!-- RELIABLE TECH BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003366,100:000000&height=250&section=header&text=KISHORE%20SAKTHI&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header Banner" />
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> **KISHORE SAKTHI**
-### **Senior UI/UX Architect & Full-Stack Systems Engineer**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> **Architecting Intelligence**
+### **MSc IT | Full-Stack Developer | ML Engineer | UI/UX Architect**
 
-*“Where complex engineering meets pixel-perfect human-centric design.”*
+*Bridging the gap between Machine Learning, Scalable Engineering, and Human-Centric Design.*
 
 <br/>
 
-<!-- CUSTOM INTERACTIVE BUTTONS -->
+<p align="center">
 <a href="mailto:kishore.sakthi1806@gmail.com">
-  <img src="https://img.shields.io/badge/-Hire%20Me-white?style=for-the-badge&logo=maildotru&logoColor=222&labelColor=222" alt="Email" />
+  <img src="https://img.shields.io/badge/-Contact%20Me-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/kishore-sakthi/">
-  <img src="https://img.shields.io/badge/-Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://drive.google.com/file/d/1SiIwbDcygFkTumXm-SbaeNRiRkNDZ_nA/view?usp=drive_link">
   <img src="https://img.shields.io/badge/-Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
 </a>
+</p>
 
 </div>
 
@@ -29,24 +30,30 @@
 
 ## ✦ The Visionary Command Center
 
-I operate at the intersection of **Systemic Logic** and **Visual Intuition**. My work is driven by a deep 2026-standard SOP that prioritizes user empathy before a single line of code is written.
+As a current **Master of Science in Information Technology** student with a 8.5 CGPA, I specialize in building systems where logic meets empathy. I don't just write code; I design ecosystems using a rigorous **2026-standard UI/UX SOP**.
 
 <table>
   <tr>
-    <td width="55%" valign="top">
-      <h3>🚀 Engineering Excellence</h3>
-      <p>Building scalable, performant architectures is my baseline. I specialize in <b>Next.js</b>, <b>Django</b>, and <b>React-driven ecosystems</b> that handle high-performance requirements with ease.</p>
-      <h3>🎨 UX Strategy (2026 SOP)</h3>
-      <p>I don't just "design screens"—I build <b>Design Systems</b>. Leveraging <i>Atomic Design</i> and <i>AI-Assisted Workflows</i>, I create interfaces that feel alive and responsive.</p>
+    <td width="60%" valign="top">
+      <h3>🚀 Engineering & Intelligence</h3>
       <ul>
-        <li><b>Research:</b> Behavioral analysis & KPI mapping.</li>
-        <li><b>Ideation:</b> RICE-based feature prioritization.</li>
-        <li><b>Handoff:</b> Figma-to-Code component synchronization.</li>
+        <li><b>Full-Stack:</b> Skilled in React, Django, and Flask for robust web applications.</li>
+        <li><b>Machine Learning:</b> Implementing models (TensorFlow, Keras, OpenCV) with up to <b>90% accuracy</b>.</li>
+        <li><b>Data Strategy:</b> Visualizing complex datasets into actionable insights using <b>Power BI</b> and <b>SQL</b>.</li>
+      </ul>
+      <h3>🎨 Professional Journey</h3>
+      <ul>
+        <li><b>UI/UX Design Intern @ BLS 360:</b> Redesigned 5+ web pages for peak usability.</li>
+        <li><b>Developer Intern @ J.AI:</b> Performed performance testing (JMeter) and UI mocking.</li>
+        <li><b>1st Prize Achiever:</b> Technical presentation on <i>Cloud Applications & DeepFake Technology</i>.</li>
       </ul>
     </td>
-    <td width="45%" valign="top" align="center">
+    <td width="40%" valign="top" align="center">
       <br/>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0Y2N0M2h0Y2N0M2h0Y2N0M2h0Y2N0M2h0Y2N0M2h0Y2N0MzZpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIw/giphy.gif" width="100%" alt="Futuristic UI GIF" style="border-radius: 12px;" />
+      <!-- GOOGLE DRIVE GIF INTEGRATION (Converted to Direct View Link) -->
+      <div style="width: 100%; height: 260px; overflow: hidden; border-radius: 12px;">
+        <img src="https://drive.google.com/uc?export=download&id=1IIgACtjerBmNsCi9gciDej7-0mAnuR95" width="100%" style="margin-bottom: -20px;" alt="Intelligence Animation" />
+      </div>
     </td>
   </tr>
 </table>
@@ -55,32 +62,47 @@ I operate at the intersection of **Systemic Logic** and **Visual Intuition**. My
 
 ---
 
-## ✦ Technical Ecosystem & Tooling
+## ✦ Elite Technical Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,framer,react,nextjs,js,html,css,tailwind,py,django,java,mysql,sqlite,git,vscode,postman,vercel,netlify&perline=9" alt="Skill Cluster" />
+### 🧠 Intelligence & Backend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv,django,flask,java,mysql,sqlite,postman&perline=9" alt="Backend Stats" />
+</div>
+
+### 🎨 Design & Frontend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma,react,js,html,css,bootstrap,tailwind,vscode,git&perline=9" alt="Frontend Stats" />
 </div>
 
 <br/>
 
-<table align="center">
+---
+
+## ✦ Featured Architectural Works
+
+<table>
   <tr>
-    <td align="center"><b>UI/UX & DESIGN</b></td>
-    <td align="center"><b>FRONTEND</b></td>
-    <td align="center"><b>BACKEND</b></td>
+    <td width="50%">
+      <b>🤖 Sign Language Detection</b>
+      <br/>
+      Built a real-time gesture prediction system using <b>MobileNet</b> and <b>Transfer Learning</b>. Achieved 90% classification accuracy on custom datasets.
+    </td>
+    <td width="50%">
+      <b>📊 Netflix Analytics Dashboard</b>
+      <br/>
+      End-to-end ETL pipeline using <b>Power Query</b> and <b>DAX</b>. Created 10+ interactive visualizations for content trend analysis.
+    </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Framer-000000?style=flat-square&logo=framer&logoColor=white" />
+    <td width="50%">
+      <b>💬 Django Chat Application</b>
+      <br/>
+      Real-time communication system utilizing REST API endpoints and JSON data exchange with <b>SQLite</b> persistence.
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+    <td width="50%">
+      <b>🔄 Image to Intelligence</b>
+      <br/>
+      Additional tools including <b>DOCX-to-PDF converters</b> and <b>CGPA Tracking</b> systems built with Python and Java.
     </td>
   </tr>
 </table>
@@ -89,25 +111,18 @@ I operate at the intersection of **Systemic Logic** and **Visual Intuition**. My
 
 ---
 
-## ✦ System Stats & Performance Analytics
+## ✦ System Insights & Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kishore-june&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Main Stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-june&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kishore-june&theme=tokyonight" alt="Profile Summary" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kishore-june&theme=tokyonight" alt="Stats Summary" width="48%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Kishore-June&show_icons=true&theme=default" alt="Main Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-June&layout=compact&theme=default" alt="Top Languages" height="170px" />
 </div>
 
 <br/>
 
-<!-- DYNAMIC SOP TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=79D4FD&center=true&vCenter=true&width=600&lines=User-Centric+First;Systems-Driven+Design;Bridging+Code+and+Empathy;Always+Be+Iterating..." alt="Typing SVG" />
+  <!-- DRIVE GIF SHOWCASE -->
+  <img src="https://drive.google.com/uc?export=download&id=1IIgACtjerBmNsCi9gciDej7-0mAnuR95" alt="Typing Showcase" width="600" />
 </div>
 
 <br/>
@@ -116,9 +131,9 @@ I operate at the intersection of **Systemic Logic** and **Visual Intuition**. My
 
 <div align="center">
 
-### ✦ Let's Architect the Future ✦
-[**Get In Touch**](mailto:kishore.sakthi1806@gmail.com) • [**LinkedIn**](https://www.linkedin.com/in/kishore-sakthi/) • [**Portfolio**](https://drive.google.com/file/d/1SiIwbDcygFkTumXm-SbaeNRiRkNDZ_nA/view?usp=drive_link)
+### ✦ Architecting the Intelligent Future ✦
+[**Email Me**](mailto:kishore.sakthi1806@gmail.com) • [**LinkedIn**](https://www.linkedin.com/in/kishore-sakthi/) • [**MSc IT / BSc CS Candidate**](https://drive.google.com/file/d/1SiIwbDcygFkTumXm-SbaeNRiRkNDZ_nA/view?usp=drive_link)
 
-*“Life is like an API: It's all about how you handle the requests.”*
+*“Research → Ideate → Design → Prototype → Test → Build → Iterate”*
 
 </div>
