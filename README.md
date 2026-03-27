@@ -50,9 +50,9 @@ As a current **Master of Science in Information Technology** student with a 8.5 
     </td>
     <td width="40%" valign="top" align="center">
       <br/>
-      <!-- GOOGLE DRIVE GIF INTEGRATION (Converted to Direct View Link) -->
+      <!-- CROPPED GIF TO REMOVE WATERMARK AT BOTTOM RIGHT -->
       <div style="width: 100%; height: 260px; overflow: hidden; border-radius: 12px;">
-        <img src="https://drive.google.com/uc?export=download&id=1IIgACtjerBmNsCi9gciDej7-0mAnuR95" width="100%" style="margin-bottom: -20px;" alt="Intelligence Animation" />
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGo0dWM0YzNjMXQ0M3IxcGFtazA1cWNlNnY0dzJyNmg4a2R0b2NpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100%" style="margin-bottom: -20px;" alt="Tech Animation" />
       </div>
     </td>
   </tr>
@@ -121,8 +121,7 @@ As a current **Master of Science in Information Technology** student with a 8.5 
 <br/>
 
 <div align="center">
-  <!-- DRIVE GIF SHOWCASE -->
-  <img src="https://drive.google.com/uc?export=download&id=1IIgACtjerBmNsCi9gciDej7-0mAnuR95" alt="Typing Showcase" width="600" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=79D4FD&center=true&vCenter=true&width=600&lines=User-Centric+First;Scalable+Intelligence;Machine+Learning+Integration;Always+Be+Iterating..." alt="Typing SVG" />
 </div>
 
 <br/>
