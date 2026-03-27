@@ -1,81 +1,124 @@
-# Welcome to Kishore's profile!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a target='blank' href="mailto:kishore.sakthi1806@gmail.com"><img align='center' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-&nbsp;
-<a target='blank' href="https://www.linkedin.com/in/kishore-sakthi/"><img align='center' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-&nbsp;
-## Glad to see you here!<img align="center" src="https://gifdb.com/images/high/cute-happy-excited-cat-gx339xf5f5zewrju.gif" width="30px">
-I am a full-stack software developer and writer. I love programming, reading, writing and watching.
+<div align="center">
 
-As a software developer, I enjoy building mini-projects, but those projects often come with mini-mistakes. These little glitches can hold me hostage for hours, sending me on a wild goose chase to fix them.
-It's all part of the programmer's life! Even when frustration strikes, the thrill of solving a coding puzzle keeps me coming back for more.
+<!-- HEADER IMAGE: GENERATED PREMIUM UI/UX ARCHITECT THEME -->
+<img src="https://github.com/Kishore-june/React-Notepad/raw/main/github_profile_header_futuristic_ux_architect_1774595053400.png" width="100%" alt="Developer Header" style="border-radius: 12px; margin-bottom: 20px;" />
 
-Life is like a code, solving a little mistake can make a big difference.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> **KISHORE SAKTHI**
+### **Senior UI/UX Architect & Full-Stack Systems Engineer**
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+*“Where complex engineering meets pixel-perfect human-centric design.”*
 
-### Talking about Personal Stuff:
+<br/>
 
-- 🧑‍💻 I'm a **Junior Software Developer**
-- 🔭 I’m currently looking for opportunity.
-- 💬 Ask me about anything, I am happy to talk
-- 🌱 I'm currently learning:
-  - Data Structures and Algorithms on <img alt="codingninjas" align="center" src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg" height="24px" width="24px" >
-  - Recently start learning <a href="#"><img alt="React" align="center" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" height="24px" width="auto" ></a>
-- 📬 How to reach me: [kishore.sakthi@outlook.com](mailto:kishore.sakthi@outlook.com)
-- 📝 [Resume](https://drive.google.com/file/d/1SiIwbDcygFkTumXm-SbaeNRiRkNDZ_nA/view?usp=drive_link).
-- 💪 This is where I write, code & solve problems:
+<!-- CUSTOM INTERACTIVE BUTTONS -->
+<a href="mailto:kishore.sakthi1806@gmail.com">
+  <img src="https://img.shields.io/badge/-Hire%20Me-white?style=for-the-badge&logo=maildotru&logoColor=222&labelColor=222" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/kishore-sakthi/">
+  <img src="https://img.shields.io/badge/-Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://drive.google.com/file/d/1SiIwbDcygFkTumXm-SbaeNRiRkNDZ_nA/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/-Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img align="center" src="https://files.codingninjas.in/article_images/logo-using-turtle-0-1651231975.webp" height="30" width="auto"></a>
-&nbsp;
-<a href="#"><img align="center" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" height="35" width="auto" ></a>
-&nbsp;
-<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
-&nbsp;
+</div>
 
-## 🛠️ My Favourite tools
-
-### 👨‍💻 Programming languages
-
-<p>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-
-</p>
-
-### 🧰 Frameworks and libraries
-
-<p>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-</p>
-
-### 🗄️ Databases and Cloud Hosting
-
-<p>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
-</p>
-
-### 💻 Software and tools. 
-
-<p>
-    <a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a>
-    <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>
-    <a href="#"><img alt="Resplit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+<br/>
 
 ---
 
+## ✦ The Visionary Command Center
 
+I operate at the intersection of **Systemic Logic** and **Visual Intuition**. My work is driven by a deep 2026-standard SOP that prioritizes user empathy before a single line of code is written.
 
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🚀 Engineering Excellence</h3>
+      <p>Building scalable, performant architectures is my baseline. I specialize in <b>Next.js</b>, <b>Django</b>, and <b>React-driven ecosystems</b> that handle high-performance requirements with ease.</p>
+      <h3>🎨 UX Strategy (2026 SOP)</h3>
+      <p>I don't just "design screens"—I build <b>Design Systems</b>. Leveraging <i>Atomic Design</i> and <i>AI-Assisted Workflows</i>, I create interfaces that feel alive and responsive.</p>
+      <ul>
+        <li><b>Research:</b> Behavioral analysis & KPI mapping.</li>
+        <li><b>Ideation:</b> RICE-based feature prioritization.</li>
+        <li><b>Handoff:</b> Figma-to-Code component synchronization.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <br/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0Y2N0M2h0Y2N0M2h0Y2N0M2h0Y2N0M2h0Y2N0M2h0Y2N0MzZpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIw/giphy.gif" width="100%" alt="Futuristic UI GIF" style="border-radius: 12px;" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## ✦ Technical Ecosystem & Tooling
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,framer,react,nextjs,js,html,css,tailwind,py,django,java,mysql,sqlite,git,vscode,postman,vercel,netlify&perline=9" alt="Skill Cluster" />
+</div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>UI/UX & DESIGN</b></td>
+    <td align="center"><b>FRONTEND</b></td>
+    <td align="center"><b>BACKEND</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framer-000000?style=flat-square&logo=framer&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## ✦ System Stats & Performance Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kishore-june&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Main Stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-june&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kishore-june&theme=tokyonight" alt="Profile Summary" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kishore-june&theme=tokyonight" alt="Stats Summary" width="48%" />
+
+</div>
+
+<br/>
+
+<!-- DYNAMIC SOP TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=79D4FD&center=true&vCenter=true&width=600&lines=User-Centric+First;Systems-Driven+Design;Bridging+Code+and+Empathy;Always+Be+Iterating..." alt="Typing SVG" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### ✦ Let's Architect the Future ✦
+[**Get In Touch**](mailto:kishore.sakthi1806@gmail.com) • [**LinkedIn**](https://www.linkedin.com/in/kishore-sakthi/) • [**Portfolio**](https://drive.google.com/file/d/1SiIwbDcygFkTumXm-SbaeNRiRkNDZ_nA/view?usp=drive_link)
+
+*“Life is like an API: It's all about how you handle the requests.”*
+
+</div>
