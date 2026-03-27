@@ -114,8 +114,7 @@ As a current **Master of Science in Information Technology** student with a 8.5 
 ## ✦ System Insights & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kishore-June&show_icons=true&theme=default" alt="Main Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-June&layout=compact&theme=default" alt="Top Languages" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-June&layout=donut-vertical&theme=vivid&hide_border=true&langs_count=10" alt="Top Languages" height="300px" />
 </div>
 
 <br/>
